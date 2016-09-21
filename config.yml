@@ -1,0 +1,3 @@
+default:
+  prefix: '&8[&c&lClearChat&8]'
+  clearmsg: '&c%displayname &6has cleared the chat.'

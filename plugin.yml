@@ -1,0 +1,9 @@
+name: ClearChat
+main: plugins.astro.clearchat.ClearChat
+version: 1.1
+author: Astro
+commands:
+  cc:
+    description: Clears the chat
+    usage: /<command> [args]
+    aliases: [clearchat]
