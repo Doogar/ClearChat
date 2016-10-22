@@ -12,8 +12,6 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class ClearChat extends JavaPlugin implements Listener
 {
-	public static ClearChat plugin;
-
 	public void onEnable()
 	{
 		super.onEnable();
